@@ -1,0 +1,6 @@
+C:\Users\Nikita\Desktop\ASU docs\DSD\Lectures\Week8 Oct6-Oct10\restFullData\RESTfulTest1\obj\Debug\RESTfulTest1.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Desktop\ASU docs\DSD\Lectures\Week8 Oct6-Oct10\restFullData\RESTfulTest1\bin\RESTfulTest1.dll.config
+C:\Users\Nikita\Desktop\ASU docs\DSD\Lectures\Week8 Oct6-Oct10\restFullData\RESTfulTest1\bin\RESTfulTest1.dll
+C:\Users\Nikita\Desktop\ASU docs\DSD\Lectures\Week8 Oct6-Oct10\restFullData\RESTfulTest1\bin\RESTfulTest1.pdb
+C:\Users\Nikita\Desktop\ASU docs\DSD\Lectures\Week8 Oct6-Oct10\restFullData\RESTfulTest1\obj\Debug\RESTfulTest1.dll
+C:\Users\Nikita\Desktop\ASU docs\DSD\Lectures\Week8 Oct6-Oct10\restFullData\RESTfulTest1\obj\Debug\RESTfulTest1.pdb
